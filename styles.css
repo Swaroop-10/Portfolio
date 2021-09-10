@@ -436,19 +436,19 @@ nav .menu-btn{
 }
 @media(max-width:375px){
     .contact-input{
-        justify-content: space-between;
+        justify-content: center;
         width: 90%;
     }
     .skill-img{
-        justify-content: space-between;
+        justify-content: center;
         display: none;
     }
     .skill-text{
-        justify-content: space-between;
+        justify-content: center;
         width: 85%;
     }
     #skills{
-        justify-content: space-between;
+        justify-content: center;
         margin: 0px;
     }
 }
